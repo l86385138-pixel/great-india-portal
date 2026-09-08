@@ -1,8 +1,6 @@
 // Firebase configuration for Great India Portal
-// This is the Web App config from Firebase Console.
-
 export const firebaseConfig = {
-  apiKey: "AIzaSyApOd7ReNmbBZTNVGjSjF-GZtAHXHM",
+  apiKey: "AIzaSyApoD7ReNbmBZ7lNVGjIsFJf-GZtAHXLM",
   authDomain: "great-india-portal.firebaseapp.com",
   projectId: "great-india-portal",
   storageBucket: "great-india-portal.firebasestorage.app",
